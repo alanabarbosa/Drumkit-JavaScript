@@ -1,0 +1,26 @@
+const bateriaJSON = [
+    { 
+        img:'img/01.png', 
+    },
+    { 
+        img:'img/02.png', 
+    },
+    { 
+        img:'img/03.png', 
+    },
+    {
+        img:'img/04.png', 
+    },
+    {
+        img:'img/05.png', 
+    },
+    {
+        img:'img/06.png', 
+    },
+    {
+        img:'img/07.png', 
+    },
+    {
+        img:'img/08.png', 
+    }
+];
