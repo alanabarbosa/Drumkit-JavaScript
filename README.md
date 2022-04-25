@@ -1,4 +1,4 @@
-# Drum-kit
+# Drum-kit 🥁
 
 Aplicação desenvolvida com JavaScript, com objetivo de simular uma bateria.
 
