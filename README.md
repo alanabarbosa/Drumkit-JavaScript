@@ -1,6 +1,7 @@
 # Drum-kit 🥁
 
-Aplicação desenvolvida com JavaScript, com objetivo de simular uma bateria.
+## Aplicação desenvolvida com JavaScript com objetivo de simular uma bateria.
+## Fique à vontade para colaborar com meu projeto
 
 # Imagens 📸
 <img src="img/modelo.png">
